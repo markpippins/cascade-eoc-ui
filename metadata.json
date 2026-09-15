@@ -1,0 +1,6 @@
+{
+  "name": "Cascade Event Observability Console",
+  "description": "Event observation, causation lineage, and lifecycle analysis console for ingestion-driven transcript harvesting, candidate evaluation, requirement planning, and software development pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
